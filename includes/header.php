@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title><?php echo $page_title; ?> – Ereteti Dairy Sacco</title>
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" defer></script>
   <link rel="icon" type="image/png" href="img/favicon-edairy.png">
 </head>
 <body>
